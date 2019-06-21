@@ -4,6 +4,9 @@
 * [MainPage.xaml](./CS/StackedLineChart/MainPage.xaml) (VB: [MainPage.xaml](./VB/StackedLineChart/MainPage.xaml))
 <!-- default file list end -->
 # How to create a 2D Stacked Line chart
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3713)**
+<!-- run online end -->
 
 
 <p>The following example demonstrates how to create a 2D Stacked Line chart.</p><br />
